@@ -1,4 +1,4 @@
-### Hi, Welcome To My Github Profile 👋 👋 👋
+### Hi, Welcome To My Github Profile 👋 
 
 I'm İlayda. I'm working on cyber security, android application development.. I am sharing my projects here.
 
