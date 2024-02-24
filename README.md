@@ -13,10 +13,10 @@ I'm İlayda. I'm working on cyber security, android application development.. I 
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meryemarpaci&show_icons=true&theme=tokyonight" width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemarpaci&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilydasnck&show_icons=true&theme=tokyonight" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilydasnck&theme=tokyonight" height="180">
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=meryemarpaci&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ilydasnck&icon=0&color=0)](https://visitcount.itsvg.in)
 
